@@ -71,22 +71,16 @@ bookbuffet/
 
 How to Run the Application
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/your-repo/bookbuffet.git
+
 cd bookbuffet
 Install dependencies:
 Ensure you have Python 3.x installed, then run:
-
-bash
-Copy code
 pip install -r requirements.txt
+
 Run the Flask Application:
 Start the Flask app by running the following command:
-
-bash
-Copy code
 python app.py
+
 Access the application:
 Open your browser and go to http://127.0.0.1:5000/ to use the book recommendation system.
