@@ -67,6 +67,7 @@ bookbuffet/
 ├── similarity_scores.pkl          # Pickled model for similarity scores
 ├── popular.pkl                    # Pickled model for popular books
 └── README.md                      # Project documentation
+```
 
 How to Run the Application
 Clone the repository:
